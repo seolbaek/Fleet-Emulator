@@ -1,0 +1,10 @@
+{
+  "description": "Streamline server management with real-time monitoring, alerts, and remote control features, designed for data center operators and IT professionals.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
